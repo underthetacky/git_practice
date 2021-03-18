@@ -2,6 +2,6 @@ include<stdio.h>
 
 int main()
 {
-	printf("こんばんは World\n");
+	printf("こんばんは せかい\n");
 	return 0;
 }
